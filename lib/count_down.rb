@@ -7,7 +7,7 @@
 # puts "Happy New Year!"
 
 counter = 0
-until counter == 20
-  puts "The current number is less than 20."
+until counter == 5
+  puts "The current number is less than 5."
   counter += 1
 end
